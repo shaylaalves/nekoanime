@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(escola.jpg);
+  background-size: cover;
+  backdrop-filter: blur(2px);
+  min-height: 100vh;
+}
